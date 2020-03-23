@@ -7,6 +7,6 @@ assume that each input would have exactly one solution, and you may not use the 
 The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
 If the first sequence of non-whitespace characters in str is not a valid integral number, or if no such sequence exists because either str is empty or it contains only whitespace characters, no conversion is performed.
 If no valid conversion could be performed, a zero value is returned.
-4)reversedint.js =>Given a 32-bit signed integer, reverse digits of an integer.
+4) reversedint.js =>Given a 32-bit signed integer, reverse digits of an integer.
 
 
