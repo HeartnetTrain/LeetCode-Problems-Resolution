@@ -5,11 +5,12 @@ var twoSum = function(nums, target) {
   }
   for (let i = 0; i < nums.length; i++) {
     let remaining = target - nums[i];
-    if (map.get(remaining) && map.get(remaining) != i)
+    if (map.get(remaining) && map.get(remaining) != i) {
       return [i, map.get(remaining)];
+    }
   }
 };
-console.log(twoSum([8, 15, 0, 15, 60], 30));
+console.log(twoSum([3, 3], 6));
 
 /* nums = [2,4,3] and target = 6 */
 /* nums = [3,3] and target = 6 */
