@@ -19,9 +19,11 @@ The repository is organized hierarchically by the strategy used, followed by the
 ### 1. Sliding Window
 The Sliding Window pattern is used to perform a required operation on a specific window size of a given array or linked list, such as finding the longest subarray containing all 1s. This pattern reduces the time complexity from $O(n^2)$ to $O(n)$.
 
-
 * **Fixed Window:** The window size `k` is constant (e.g., Maximum Average Subarray).
 * **Dynamic Window:** The window size grows or shrinks based on a condition (e.g., Longest Substring Without Repeating Characters).
+
+> 📖 **Deep Dive:** I wrote a comprehensive guide on mastering this pattern, including visualization and complexity analysis. Check it out on dev.to:  
+> [**Master Coding Interviews: Part 1 - Sliding Window Pattern**](https://dev.to/messaoud_wael_dd4b26a0d29/master-coding-interviews-part-1-sliding-window-pattern--35pk)
 
 ### 2. Binary Search
 Binary Search is a "divide and conquer" algorithm. It is used to find the position of a target value within a **sorted** array. By repeatedly dividing the search interval in half, it achieves a logarithmic time complexity of $O(\log n)$.
