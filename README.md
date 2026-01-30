@@ -35,4 +35,4 @@ Binary Search is a "divide and conquer" algorithm. It is used to find the positi
 
 ## 🛠️ Tech Stack
 * **Primary Language:** Python 3.x
-* **Progress Tracking:** LeetCode / [Your Profile Link]
+* **Progress Tracking:** LeetCode
