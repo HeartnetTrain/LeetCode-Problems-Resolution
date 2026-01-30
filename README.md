@@ -1,6 +1,6 @@
 # Coding Challenge Solutions 🚀
 
-This repository is a collection of my solutions to various algorithmic problems from platforms like **LeetCode**, **HackerRank**, and **Codeforces**. 
+This repository is a collection of my solutions to various algorithmic problems from **LeetCode** platform.
 
 The goal is to move beyond just solving problems and instead focus on mastering **Algorithmic Patterns**.
 
@@ -35,4 +35,3 @@ Binary Search is a "divide and conquer" algorithm. It is used to find the positi
 
 ## 🛠️ Tech Stack
 * **Primary Language:** Python 3.x
-* **Progress Tracking:** LeetCode
